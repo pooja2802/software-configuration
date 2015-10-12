@@ -13,5 +13,7 @@ c=a-b;
 prinf("Subtraction: %d",c);
 c=a*b;
 prinf("Multiplication: %d",c);
+c=a/b;
+prinf("Division: %d",c);
 getch();
 }
