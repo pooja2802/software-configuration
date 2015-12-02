@@ -9,5 +9,6 @@ scanf("%d",&a);
 printf("Enter b: ");
 scanf("%d",&b);
 c=a/b;
-printf("Division=%d",c)
+printf("Division=%d",c);
+printf("\n");
 }
